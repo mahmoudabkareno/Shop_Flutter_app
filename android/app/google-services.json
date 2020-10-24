@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115841155831",
+    "firebase_url": "https://shope-bfb79.firebaseio.com",
+    "project_id": "shope-bfb79",
+    "storage_bucket": "shope-bfb79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115841155831:android:c576b41d94ae3d793409f2",
+        "android_client_info": {
+          "package_name": "com.mahmoudabkareno.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115841155831-f7rca658ev9vanmic8kud5f3qm6c2u2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJo3x60Ktr1wtHIwrz4K_oq122ClOeMuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115841155831-f7rca658ev9vanmic8kud5f3qm6c2u2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
